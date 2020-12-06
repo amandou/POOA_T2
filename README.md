@@ -3,7 +3,7 @@
 
 O objetivo deste trabalho é construir uma ferramenta para encontrar e baixar títulos das notícias do dia, nos principais sites de notícias (G1, UOL, etc) de forma que respeite os princípios da Responsabilidade Única e Aberto Fechado.
 
-* A implementação deste trabalho foi baseado no código deste repositório https://github.com/dlucredio/curso-programacao-oo-avancada/tree/master/openClosedPrinciple4 
+* A implementação da atividade foi baseado no código deste repositório https://github.com/dlucredio/curso-programacao-oo-avancada/tree/master/openClosedPrinciple4 
 
 ---
 
